@@ -1,0 +1,3 @@
+[submodule "QuadraticPoints"]
+	path = QuadraticPoints
+	url = git@github.com:TimoKellerMath/QuadraticPoints.git
