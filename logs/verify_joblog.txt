@@ -1,0 +1,6 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+3	:	1770997608.255	     0.050	0	0	0	0	magma -n divisors.m >| logs/divisors.txt
+1	:	1770997608.248	     0.064	0	0	0	0	magma -n deg_5_function_search.m >| logs/deg_5_function_search.txt
+2	:	1770997608.251	    32.272	0	0	0	0	magma -n deg_5_functions.m >| logs/deg_5_functions.txt
+4	:	1770997608.258	    88.742	0	0	0	0	magma -n X0_112.m >| logs/X0_112.txt
+5	:	1770997608.262	   272.915	0	0	0	0	magma -n X0_117.m >| logs/X0_117.txt

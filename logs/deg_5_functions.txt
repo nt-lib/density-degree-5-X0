@@ -1,0 +1,46 @@
+Magma V2.29-4     Fri Feb 13 2026 16:46:48 on euler    [Seed = 1488864011]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "deg_5_functions.m"
+Loading "deg_5_function_search.m"
+Loading "QuadraticPoints/models_and_maps.m"
+Searching for function of degree 5 on X_0(42).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(51).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(52).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(54).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(55).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(56).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(57).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(58).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(63).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(64).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(65).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(67).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(68).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(72).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(73).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(75).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(80).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(91).
+Degree 5 function found!
+Searching for function of degree 5 on X_0(121).
+Degree 5 function found!
+
+Total time: 32.179 seconds, Total memory usage: 184.72MB

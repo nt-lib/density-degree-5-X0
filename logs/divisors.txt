@@ -1,0 +1,6 @@
+Magma V2.29-4     Fri Feb 13 2026 16:46:48 on euler    [Seed = 1471237124]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "divisors.m"
+
+Total time: 0.030 seconds, Total memory usage: 32.09MB

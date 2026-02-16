@@ -1,0 +1,10 @@
+Magma V2.29-4     Fri Feb 13 2026 16:46:48 on euler    [Seed = 1151491863]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "X0_117.m"
+Loading "divisors.m"
+Nr. of divisors over F_5 to check: 10596
+Nr. of divisors D such that D+D0 in W_5^0: 0
+computations for X0(117) finished
+
+Total time: 272.790 seconds, Total memory usage: 485.97MB

@@ -1,0 +1,7 @@
+Magma V2.29-4     Fri Feb 13 2026 16:46:48 on euler    [Seed = 1686273847]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "deg_5_function_search.m"
+Loading "QuadraticPoints/models_and_maps.m"
+
+Total time: 0.020 seconds, Total memory usage: 32.09MB
