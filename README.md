@@ -62,3 +62,4 @@ in the original repository. Reproducing this computations is done by running the
 
 ## Maple
 
+The Maple computations are contained in the files `modular_parameterisation_112a2.mpl` and `modular_parameterisation_117a4.mpl`. To reproduce them simply run them from the root of this repository.
